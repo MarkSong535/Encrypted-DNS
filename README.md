@@ -2,7 +2,7 @@
 
 This repo and unsigned profiles are copied directly from [paulmiller's repo](https://github.com/paulmillr/encrypted-dns). Files under [profiles](profiles) subfolder are subject to license of [paulmiller's license](https://github.com/paulmillr/encrypted-dns/blob/master/LICENSE). 
 
-The following table is modified from [paulmiller's readme](https://github.com/paulmillr/encrypted-dns/blob/master/README.md). (The following is listed in alphabetical order.)  The signature for the signed profiles is provided by [Mark Song](marksong.tech).
+The following table is modified from [paulmiller's readme](https://github.com/paulmillr/encrypted-dns/blob/master/README.md). (The following is listed in alphabetical order.)  The signature for the signed profiles is provided by [Mark Song](https://marksong.tech).
 
 ## List of Encrypted DNS providers
 
@@ -38,7 +38,7 @@ The following table is modified from [paulmiller's readme](https://github.com/pa
 | Quad9 with ECS                | 🇨🇭     | Yes        | Operated by Quad9 Foundation. Supports ECS. Blocks malware                                                | [HTTPS](profiles/quad9-ECS-https.mobileconfig), [TLS](profiles/quad9-ECS-tls.mobileconfig)                               | [HTTPS](signed_profiles/quad9-ECS-https.mobileconfig), [TLS](signed_profiles/quad9-ECS-tls.mobileconfig)                               |
 | Tiarap                        | 🇸🇬 🇺🇸  | Yes        | Operated by Tiarap Inc. Blocks ads, tracking, phising & malware                                           | [HTTPS](profiles/tiarapp-https.mobileconfig), [TLS](profiles/tiarapp-tls.mobileconfig)                                   | [HTTPS](signed_profiles/tiarapp-https.mobileconfig), [TLS](signed_profiles/tiarapp-tls.mobileconfig)                                   |
 
-If you are operating a DNS service and want to be listed here, please open a PR on [github]().
+If you are operating a DNS service and want to be listed here, please open a PR on [github](https://github.com/MarkSong535/Encrypted-DNS).
 
 ## How to install
 
